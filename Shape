@@ -1,0 +1,5 @@
+public abstract class Shape {
+    // Define abstract methods that all shapes must implement
+    public abstract double surfaceArea();
+    public abstract double volume();
+}
